@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=39902f40_002D9d17_002D476f_002Dbcc4_002D983a7496c2bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindFree_ReturnsBitFlagForFreeDoor #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(0,1,4)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(0,2,2)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(1,2,1)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49128124_002D1ce5_002D4d1d_002Da06d_002De523c250736c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FindFree_ReturnsBitFlagForFreeDoor" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(0,1,4)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(0,2,2)&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E7D2CE8-E25A-4877-9275-7C5CC169DB0C::net6.0::MontyHallParadox.Tests.DoorFinderTests.FindFree_ReturnsBitFlagForFreeDoor(1,2,1)&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
